@@ -3,19 +3,19 @@ about:
   template: jolla
   id: about-block
   image: "img/my_image.jpg"
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/olayusuff14
-    - icon: github
-      text: Github
-      href: https://github.com/olanrewajuyusuffecon
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/
-    - icon: envelope
-      text: Email
-      href: "mailto:oyusuff4@student.gsu.edu"  
+  #links:
+  #  - icon: twitter
+  #   text: Twitter
+  #    href: https://x.com/olayusuff14
+  #  - icon: github
+  #   text: Github
+  #   href: https://github.com/olanrewajuyusuffecon
+  #  - icon: linkedin
+  #    text: LinkedIn
+  #    href: https://www.linkedin.com/in/olanrewaju-yusuff-58417a19b/
+  #  - icon: envelope
+  #    text: Email
+  #    href: "mailto:oyusuff4@student.gsu.edu"  
 ---
 
 ::: {#about-block}

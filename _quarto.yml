@@ -6,7 +6,7 @@ website:
   description: "Welcome to my website! I am a third-year Ph.D. student at Georgia State University. My research interests are in Health Economics, Public Economics, and Development Economics. I am specifically interested in healthcare utilization caused by health insurance and social programs and identifying the effects of healthcare use on health outcomes."   # A brief slogan (optional)
   image: img/my_image.jpg
   
-  favicon: img/favicon.png
+  favicon: img/my_image.png
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -31,7 +31,7 @@ website:
       - icon: google-scholar
         href: https://scholar.google.com/citations?user=eL92kpYAAAAJ&hl=en
       - icon: twitter
-        href: //https://x.com/olayusuff14
+        href: https://x.com/olayusuff14
       - icon: github
         href: https://github.com/olanrewajuyusuffecon
       - icon: envelope
